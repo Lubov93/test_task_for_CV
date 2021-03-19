@@ -1,5 +1,6 @@
+
 body {
-    background: #fafafa;
+    background: #bf4b4b;
     color: #4e4e4e;
     margin-top: 5rem;
 }
@@ -40,7 +41,8 @@ ul {
     padding: 10px 20px;
     border: 1px solid #dddddd;
     border-radius: 3px;
-    margin-bottom: 20px;
+    margin-bottom: 200px;
+
 }
 
 .article-title {
