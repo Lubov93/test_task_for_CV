@@ -1,0 +1,2 @@
+django
+pillow==-8.1.2
