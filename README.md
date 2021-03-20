@@ -1,6 +1,6 @@
-#Django Blog&Test task 
+Django Blog&Test task 
 
-###About The Project
+About The Project
 
 
 
@@ -36,6 +36,6 @@ Run server</br>
 `python manage.py runserver`</br>
 
 
-##Usage Instructions
+Usage Instructions
 
 ![](https://github.com/Lubov93/test_task_for_CV/blob/main/django_test_project/media/blog/images/изображение_viber_2021-03-19_21-12-53.jpg)
