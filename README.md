@@ -14,9 +14,9 @@
 
 **Installation Instructions
 For start Django test project<br>
-`git clone https://github.com/Lubov93/test_task_for_CV.git`
+`git clone https://github.com/Lubov93/test_task_for_CV.git`</br>
 `cd django_test_project`
-git
+
 
 **Create and activate virtualenv</br>
 `virtualenv env`</br>
