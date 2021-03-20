@@ -12,7 +12,7 @@ About The Project
 
 
 
-##Installation Instructions
+Installation Instructions
 For start Django test project<br>
 `git clone https://github.com/Lubov93/test_task_for_CV.git`
 `cd django_test_project`
@@ -39,3 +39,4 @@ Run server</br>
 Usage Instructions
 
 ![](https://github.com/Lubov93/test_task_for_CV/blob/main/django_test_project/media/blog/images/изображение_viber_2021-03-19_21-12-53.jpg)
+![](https://github.com/Lubov93/test_task_for_CV/blob/main/django_test_project/media/blog/images/изображение_viber_2021-03-19_21-13-54.jpg)
